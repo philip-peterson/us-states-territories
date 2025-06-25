@@ -1,0 +1,338 @@
+[
+  {
+    "territory": false,
+    "state": true,
+    "name": "Alabama",
+    "abbrev": "AL"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Alaska",
+    "abbrev": "AK"
+  },
+  {
+    "territory": true,
+    "state": false,
+    "name": "American Samoa",
+    "abbrev": "AS"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Arizona",
+    "abbrev": "AZ"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Arkansas",
+    "abbrev": "AR"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "California",
+    "abbrev": "CA"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Colorado",
+    "abbrev": "CO"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Connecticut",
+    "abbrev": "CT"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Delaware",
+    "abbrev": "DE"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Florida",
+    "abbrev": "FL"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Georgia",
+    "abbrev": "GA"
+  },
+  {
+    "territory": true,
+    "state": false,
+    "name": "Guam",
+    "abbrev": "GU"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Hawaii",
+    "abbrev": "HI"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Idaho",
+    "abbrev": "ID"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Illinois",
+    "abbrev": "IL"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Indiana",
+    "abbrev": "IN"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Iowa",
+    "abbrev": "IA"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Kansas",
+    "abbrev": "KS"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Kentucky",
+    "abbrev": "KY"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Louisiana",
+    "abbrev": "LA"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Maine",
+    "abbrev": "ME"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Maryland",
+    "abbrev": "MD"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Massachusetts",
+    "abbrev": "MA"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Michigan",
+    "abbrev": "MI"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Minnesota",
+    "abbrev": "MN"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Mississippi",
+    "abbrev": "MS"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Missouri",
+    "abbrev": "MO"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Montana",
+    "abbrev": "MT"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Nebraska",
+    "abbrev": "NE"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Nevada",
+    "abbrev": "NV"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "New Hampshire",
+    "abbrev": "NH"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "New Jersey",
+    "abbrev": "NJ"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "New Mexico",
+    "abbrev": "NM"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "New York",
+    "abbrev": "NY"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "North Carolina",
+    "abbrev": "NC"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "North Dakota",
+    "abbrev": "ND"
+  },
+  {
+    "territory": true,
+    "state": false,
+    "name": "Northern Mariana Islands",
+    "abbrev": "MP"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Ohio",
+    "abbrev": "OH"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Oklahoma",
+    "abbrev": "OK"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Oregon",
+    "abbrev": "OR"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Pennsylvania",
+    "abbrev": "PA"
+  },
+  {
+    "territory": true,
+    "state": false,
+    "name": "Puerto Rico",
+    "abbrev": "PR"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Rhode Island",
+    "abbrev": "RI"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "South Carolina",
+    "abbrev": "SC"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "South Dakota",
+    "abbrev": "SD"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Tennessee",
+    "abbrev": "TN"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Texas",
+    "abbrev": "TX"
+  },
+  {
+    "territory": true,
+    "state": false,
+    "name": "U.S. Virgin Islands",
+    "abbrev": "VI"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Utah",
+    "abbrev": "UT"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Vermont",
+    "abbrev": "VT"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Virginia",
+    "abbrev": "VA"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Washington",
+    "abbrev": "WA"
+  },
+  {
+    "territory": false,
+    "state": false,
+    "name": "Washington, D.C.",
+    "abbrev": "DC"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "West Virginia",
+    "abbrev": "WV"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Wisconsin",
+    "abbrev": "WI"
+  },
+  {
+    "territory": false,
+    "state": true,
+    "name": "Wyoming",
+    "abbrev": "WY"
+  }
+]
